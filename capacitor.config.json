@@ -1,0 +1,9 @@
+{
+  "appId": "com.netiaccess.mobilefrontend",
+  "appName": "NETI-OEX",
+  "webDir": "oex-mobile/src",
+  "server": {
+    "url": "https://mobilefrontend.netiaccess.com",
+    "cleartext": true
+  }
+}

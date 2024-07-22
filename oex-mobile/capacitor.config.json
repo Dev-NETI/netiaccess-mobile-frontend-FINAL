@@ -1,0 +1,10 @@
+{
+  "appId": "com.netiaccess.mobilefrontend",
+  "appName": "oex-mobile",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

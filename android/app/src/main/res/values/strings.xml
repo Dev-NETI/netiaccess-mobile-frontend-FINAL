@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NETI-OEX</string>
+    <string name="title_activity_main">NETI-OEX</string>
+    <string name="package_name">com.netiaccess.mobilefrontend</string>
+    <string name="custom_url_scheme">com.netiaccess.mobilefrontend</string>
+</resources>
