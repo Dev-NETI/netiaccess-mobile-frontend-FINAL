@@ -5,6 +5,7 @@ const axios = Axios.create({
   headers: {
     "X-Requested-With": "XMLHttpRequest",
     Accept: "application/json",
+    // Referer: "https://mobile-backend.netiaccess.com",
   },
   withCredentials: true,
   withXSRFToken: true,
