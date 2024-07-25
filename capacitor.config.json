@@ -3,7 +3,7 @@
   "appName": "NETI-OEX",
   "webDir": "oex-mobile/src",
   "server": {
-    "url": "https://netiaccess-mobile-frontend-final.vercel.app",
+    "url": "https://mobile-frontend.netiaccess.com",
     "cleartext": true
   }
 }
