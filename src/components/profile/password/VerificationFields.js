@@ -88,7 +88,7 @@ function VerificationFields({ mode = 'update' }) {
                             setVerificationCode(generateRandomNumbers)
                             setTimeLeft(60)
                         }}>
-                        Didn't receive verification code? Click here to resend.
+                        Didn't receive verification code? Click here to resend. ({verificationCode})
                     </p>}
                 {timeLeft > 0
                     && <ProgressBarComponent progress={progress}
