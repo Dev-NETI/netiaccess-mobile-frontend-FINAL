@@ -7,7 +7,7 @@ import { useContext } from "react";
 function ProfileImage() {
   const { user } = useContext(TraineeContext);
   const traineeName =
-    user.f_name + " " + user.m_name + " " + user.l_name + " " + user.suffix || '';
+    user.f_name + " " + user.m_name + " " + user.l_name;
 
   return (
     <>
