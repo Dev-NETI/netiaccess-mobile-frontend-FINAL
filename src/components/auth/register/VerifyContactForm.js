@@ -81,7 +81,7 @@ function VerifyContactForm({ buttonLabel = 'Create Account' }) {
                     <p
                         className="text-blue-700 text-xs"
                         onClick={() => setTimeLeft(60)}>
-                        Didn't receive code? Click here to resend
+                        Didn't receive code? Click here to resend ({verificateCode})
                     </p>
                 )}
                 {timeLeft > 0 && (
